@@ -1,2 +1,2 @@
 # new-Vue-3.js-
-iam currrently vtrying to learn vue 3.js and now i arrived to the composition API .... vue 3 js can make your web dev journey enjoyable for real i recommend it
+ "I'm currently learning Vue 3.js and have just started working with the Composition API. Vue 3 can truly enhance your web development experience and make the journey enjoyable. I highly recommend giving it a try!
